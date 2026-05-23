@@ -1,6 +1,6 @@
 # Calculator Project
 
-Simple Python Calculator Project.
+Simple Python Calculator Project 1 
 
 ## Features
 - Addition
